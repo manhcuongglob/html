@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Pattern Maker",
+    "salary": "Thỏa thuận",
+    "experience": "5+ năm",
+    "phone": "0988123456",
+    "zalo": "0988123456",
+    "description": [
+      "Tiếp nhận và phân tích Tech Pack",
+      "Thiết kế rập trên Gerber",
+      "Làm việc với khách hàng quốc tế"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pattern Maker",
+    "salary": "15 - 25 triệu",
+    "experience": "2+ năm",
+    "phone": "0988123456",
+    "zalo": "0988123456",
+    "description": [
+      "Thiết kế rập",
+      "Nhảy size",
+      "Kiểm tra fitting"
+    ]
+  }
+]
